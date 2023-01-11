@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/currency/static/css/main.34874d56.css",
+    "main.js": "/currency/static/js/main.0152e3b5.js",
+    "static/media/Codystar-Regular.ttf": "/currency/static/media/Codystar-Regular.070f6213a61a03f427e9.ttf",
+    "index.html": "/currency/index.html",
+    "main.34874d56.css.map": "/currency/static/css/main.34874d56.css.map",
+    "main.0152e3b5.js.map": "/currency/static/js/main.0152e3b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34874d56.css",
+    "static/js/main.0152e3b5.js"
+  ]
+}
